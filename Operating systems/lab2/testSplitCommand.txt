@@ -1,0 +1,13 @@
+Script started on 2024-10-07 22:55:12-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="115" LINES="16"]
+\]0;19bbs2@elec377-tues-1: ~/elec377-tues-1/lab2[01;32m19bbs2@elec377-tues-1[00m:[01;34m~/elec377-tues-1/lab2[00m$ \[K./shell
+%> this is a sentence
+4 arguments found
+0: this
+1: is
+2: a
+3: sentence
+4: (null)
+%> exit
+]0;19bbs2@elec377-tues-1: ~/elec377-tues-1/lab2[01;32m19bbs2@elec377-tues-1[00m:[01;34m~/elec377-tues-1/lab2[00m$ exit
+
+Script done on 2024-10-07 22:57:11-04:00 [COMMAND_EXIT_CODE="0"]

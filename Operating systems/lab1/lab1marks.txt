@@ -1,0 +1,7 @@
+Documentation 3/3
+Solution 2.75/3
+Clarity 2/2
+Testing 2/2
+Total 9.75/10
+Commets:
+It was asked in the lab to print the state as its equivalent state meaning (running, ...). Your comment in the follow up also mentions that to print if necessary, strange comment :)

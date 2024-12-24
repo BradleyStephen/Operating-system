@@ -1,0 +1,31 @@
+Script started on 2024-09-24 19:56:58-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="115" LINES="16"]
+\]0;19bbs2@elec377-tues-1: ~/elec377-tues-1/lab2[01;32m19bbs2@elec377-tues-1[00m:[01;34m~/elec377-tues-1/lab2[00m$ \[K./shell
+%> pwd
+/home/19bbs2/elec377-tues-1/lab2
+%> cd
+%> pwd
+/home/19bbs2
+%> cd  ls
+elec377-tues-1
+%> cd elec377-tues-1
+%> pwd
+/home/19bbs2/elec377-tues-1
+%> cd ..
+%> pwd
+/home/19bbs2
+%> cd elec377-tues-1/lab
+chdir: No such file or directory
+%> ^[[A    cd elec377-tues-1/lab2
+%> pwd
+/home/19bbs2/elec377-tues-1/lab2
+%> ls
+Makefile
+hello
+hello.c
+shell
+shell.c
+test1.txt
+%> exit
+]0;19bbs2@elec377-tues-1: ~/elec377-tues-1/lab2[01;32m19bbs2@elec377-tues-1[00m:[01;34m~/elec377-tues-1/lab2[00m$ exit
+
+Script done on 2024-09-24 19:59:21-04:00 [COMMAND_EXIT_CODE="0"]

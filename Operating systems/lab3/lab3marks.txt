@@ -1,0 +1,9 @@
+
+Documentation 2.5/3
+Solution 3/3
+Clarity 2/2
+Testing 1.5/2
+Total: 9/10
+
+Comments: 
+I can not see the test for multiple consumer cases whether for one or multiple producers. Although you have a section in testing document for that but you are referring to previous test files which are completely different and also I could not see any related output files for the cases i mentioned.

@@ -1,0 +1,9 @@
+Documentation 3/3
+Correctness 3/3
+Style 2/2
+Testing 1.5/2
+Total: 9.5/10
+
+Comments: 
+The testing was not completely executed and also i did not affect grade on password guessing but a choice would have been date of birth.
+client file also has some errors, for example the compromise array (similar for selfcomp) and also the attack function is using wrong array
